@@ -1089,6 +1089,7 @@ drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
 drawable bg
+drawable bg1
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1222,6 +1223,10 @@ id contentPanel
 id coordinator
 id custom
 id customPanel
+id cvpdfscanner
+id cvqrgenerator
+id cvqrscanner
+id cvtexttranslate
 id decor_content_parent
 id default_activity_button
 id design_bottom_sheet
@@ -1253,6 +1258,7 @@ id fragment_container_view_tag
 id ghost_view
 id ghost_view_holder
 id gone
+id gridLayout
 id group_divider
 id groups
 id home
@@ -1371,11 +1377,16 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
+id textView10
+id textView11
 id textView2
 id textView3
 id textView4
 id textView5
 id textView6
+id textView7
+id textView8
+id textView9
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1463,6 +1474,10 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_pdf_scanner
+layout activity_qr_generator
+layout activity_qr_scanner
+layout activity_translator
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

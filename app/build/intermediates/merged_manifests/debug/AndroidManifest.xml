@@ -18,6 +18,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.wizlan.Translator" />
+        <activity android:name="com.example.wizlan.pdfScanner" />
+        <activity android:name="com.example.wizlan.qrGenerator" />
+        <activity android:name="com.example.wizlan.qrScanner" />
         <activity android:name="com.example.wizlan.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

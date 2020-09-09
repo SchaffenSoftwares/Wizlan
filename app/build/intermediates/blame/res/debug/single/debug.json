@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "D:\\kotlin practice\\Wizlan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg.png.flat",
         "source": "D:\\kotlin practice\\Wizlan\\app\\src\\main\\res\\drawable-v24\\bg.png"
+    },
+    {
+        "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\kotlin practice\\Wizlan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
         "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\font_baloo.xml.flat",
@@ -14,6 +14,10 @@
     {
         "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
         "source": "D:\\kotlin practice\\Wizlan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_translator.xml.flat",
+        "source": "D:\\kotlin practice\\Wizlan\\app\\src\\main\\res\\layout\\activity_translator.xml"
     },
     {
         "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first_screen.xml.flat",
@@ -32,12 +36,20 @@
         "source": "D:\\kotlin practice\\Wizlan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qr_scanner.xml.flat",
+        "source": "D:\\kotlin practice\\Wizlan\\app\\src\\main\\res\\layout\\activity_qr_scanner.xml"
+    },
+    {
         "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_third_screen.xml.flat",
         "source": "D:\\kotlin practice\\Wizlan\\app\\src\\main\\res\\layout\\fragment_third_screen.xml"
     },
     {
         "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "D:\\kotlin practice\\Wizlan\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pdf_scanner.xml.flat",
+        "source": "D:\\kotlin practice\\Wizlan\\app\\src\\main\\res\\layout\\activity_pdf_scanner.xml"
     },
     {
         "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
@@ -76,6 +88,10 @@
         "source": "D:\\kotlin practice\\Wizlan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.jpg.flat",
+        "source": "D:\\kotlin practice\\Wizlan\\app\\src\\main\\res\\drawable\\bg1.jpg"
+    },
+    {
         "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_resize.png.flat",
         "source": "D:\\kotlin practice\\Wizlan\\app\\src\\main\\res\\drawable-v24\\resize.png"
     },
@@ -86,6 +102,10 @@
     {
         "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_translate.png.flat",
         "source": "D:\\kotlin practice\\Wizlan\\app\\src\\main\\res\\drawable-v24\\translate.png"
+    },
+    {
+        "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qr_generator.xml.flat",
+        "source": "D:\\kotlin practice\\Wizlan\\app\\src\\main\\res\\layout\\activity_qr_generator.xml"
     },
     {
         "merged": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",

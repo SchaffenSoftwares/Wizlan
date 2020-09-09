@@ -11,7 +11,7 @@
 9-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:5:5-22:19
+11-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:5:5-27:19
 12        android:allowBackup="true"
 12-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -28,27 +28,39 @@
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
 20-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="com.example.wizlan.MainActivity" >
-21-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:12:19-47
-22            <intent-filter>
-22-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:14:17-69
-23-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:16:17-77
-25-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
+21        <activity android:name="com.example.wizlan.Translator" />
+21-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:12:9-57
+21-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:12:19-45
+22        <activity android:name="com.example.wizlan.pdfScanner" />
+22-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:13:9-48
+22-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:13:19-45
+23        <activity android:name="com.example.wizlan.qrGenerator" />
+23-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:14:9-49
+23-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:14:19-46
+24        <activity android:name="com.example.wizlan.qrScanner" />
+24-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:15:9-47
+24-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:15:19-44
+25        <activity android:name="com.example.wizlan.MainActivity" >
+25-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:16:9-22:20
+25-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:16:19-47
+26            <intent-filter>
+26-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:17:13-21:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:18:17-69
+27-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:18:25-66
 28
-29        <meta-data
-29-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:19:9-21:57
-30            android:name="preloaded_fonts"
-30-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:20:13-43
-31            android:resource="@array/preloaded_fonts" />
-31-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:21:13-54
-32    </application>
-33
-34</manifest>
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:20:17-77
+29-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:20:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <meta-data
+33-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:24:9-26:57
+34            android:name="preloaded_fonts"
+34-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:25:13-43
+35            android:resource="@array/preloaded_fonts" />
+35-->D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:26:13-54
+36    </application>
+37
+38</manifest>
