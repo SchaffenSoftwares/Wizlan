@@ -21,6 +21,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\shreyas\\.gradle\\caches\\transforms-2\\files-2.1\\5abb824480fdc420cbf5bdcfa64642aa\\jetified-zxing-android-embedded-3.6.0\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,159,311",
+                        "endColumns": "56,46,151,110",
+                        "endOffsets": "107,154,306,417"
+                    },
+                    "to": {
+                        "startLines": "33,34,35,36",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3276,3333,3380,3532",
+                        "endColumns": "56,46,151,110",
+                        "endOffsets": "3328,3375,3527,3638"
+                    }
+                },
+                {
                     "source": "C:\\Users\\shreyas\\.gradle\\caches\\transforms-2\\files-2.1\\21d47dff16ccbe3d5a08083de58452c6\\core-1.3.1\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2",
