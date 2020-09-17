@@ -22,11 +22,19 @@ MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\shreyas\.gra
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\c987461e97a14c87dfcac71935285a37\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\bd8f691c65dc70be670287fb2d53ed69\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\f5cc70fada56399c3e1a88fa29ca9101\gridlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\3cdbe273f037904cfd87f54495f7c32b\jetified-play-services-vision-19.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\43229cd07b97edef324141a486120626\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.media:media:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\43f12bb8d0a0c13ed77e92cab9d9be0f\media-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\414104850eed0809f79ec492580a5127\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\2cb5b18fe97ec6598fc3a7b17d36141e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\0709a8e677ea17d884fc9db78f654b30\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\4eb4e8cd855c5968e1a46894baca2e76\jetified-play-services-vision-common-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\44ab98484cc88d45a662ff368b2066ee\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\d8e5b27be8a38e6afa766db104b58e4b\jetified-play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\2963666fe0b02359a2d5808bd1b0cce4\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\f019312ebccc91329473a0f87b8d7269\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\d4534c76ad978dee5870a81c1f403b14\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\722ee9809c32c8171102b52c64250b1b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\604fb9ee47f7e904cd79b6924c2e66c6\navigation-fragment-2.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\b7978bef357a8409f9aa61e28082421d\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\8d34f5cf2d0f3dc213eb2efce5534067\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -117,6 +125,8 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\shreyas\.gradle\cach
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\bd8f691c65dc70be670287fb2d53ed69\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\f5cc70fada56399c3e1a88fa29ca9101\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\f5cc70fada56399c3e1a88fa29ca9101\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\3cdbe273f037904cfd87f54495f7c32b\jetified-play-services-vision-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\3cdbe273f037904cfd87f54495f7c32b\jetified-play-services-vision-19.0.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\43229cd07b97edef324141a486120626\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\43229cd07b97edef324141a486120626\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.media:media:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\43f12bb8d0a0c13ed77e92cab9d9be0f\media-1.0.0\AndroidManifest.xml:20:5-44
@@ -127,6 +137,20 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\shreyas\.
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\2cb5b18fe97ec6598fc3a7b17d36141e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\0709a8e677ea17d884fc9db78f654b30\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\0709a8e677ea17d884fc9db78f654b30\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\4eb4e8cd855c5968e1a46894baca2e76\jetified-play-services-vision-common-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\4eb4e8cd855c5968e1a46894baca2e76\jetified-play-services-vision-common-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\44ab98484cc88d45a662ff368b2066ee\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\44ab98484cc88d45a662ff368b2066ee\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\d8e5b27be8a38e6afa766db104b58e4b\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\d8e5b27be8a38e6afa766db104b58e4b\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\2963666fe0b02359a2d5808bd1b0cce4\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\2963666fe0b02359a2d5808bd1b0cce4\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\f019312ebccc91329473a0f87b8d7269\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\f019312ebccc91329473a0f87b8d7269\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\d4534c76ad978dee5870a81c1f403b14\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\d4534c76ad978dee5870a81c1f403b14\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\722ee9809c32c8171102b52c64250b1b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\722ee9809c32c8171102b52c64250b1b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\604fb9ee47f7e904cd79b6924c2e66c6\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\604fb9ee47f7e904cd79b6924c2e66c6\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\b7978bef357a8409f9aa61e28082421d\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
@@ -201,6 +225,12 @@ INJECTED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:5:5-73
 		INJECTED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml
 		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:5:5-73
 		INJECTED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:6:5-64
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\5abb824480fdc420cbf5bdcfa64642aa\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\5abb824480fdc420cbf5bdcfa64642aa\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:6:22-62
 application
 ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:7:5-34:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\c122524bdc2720f57dd4384861ac7d8d\material-1.0.0\AndroidManifest.xml:22:5-20
@@ -209,6 +239,20 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\shreyas\
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\6fc64f0259807e201ef86ca2df8addd3\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\5abb824480fdc420cbf5bdcfa64642aa\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:46:5-54:19
 MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\5abb824480fdc420cbf5bdcfa64642aa\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\3cdbe273f037904cfd87f54495f7c32b\jetified-play-services-vision-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\3cdbe273f037904cfd87f54495f7c32b\jetified-play-services-vision-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\4eb4e8cd855c5968e1a46894baca2e76\jetified-play-services-vision-common-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\4eb4e8cd855c5968e1a46894baca2e76\jetified-play-services-vision-common-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\44ab98484cc88d45a662ff368b2066ee\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\44ab98484cc88d45a662ff368b2066ee\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\2963666fe0b02359a2d5808bd1b0cce4\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\2963666fe0b02359a2d5808bd1b0cce4\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\f019312ebccc91329473a0f87b8d7269\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\f019312ebccc91329473a0f87b8d7269\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\d4534c76ad978dee5870a81c1f403b14\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\d4534c76ad978dee5870a81c1f403b14\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\722ee9809c32c8171102b52c64250b1b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\722ee9809c32c8171102b52c64250b1b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.3.1] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\21d47dff16ccbe3d5a08083de58452c6\core-1.3.1\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.3.1] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\21d47dff16ccbe3d5a08083de58452c6\core-1.3.1\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\0d2962d75836bec3bff240b317e7badc\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
@@ -284,10 +328,6 @@ ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:31:9-33:57
 		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:33:13-54
 	android:name
 		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:32:13-43
-uses-permission#android.permission.CAMERA
-ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\5abb824480fdc420cbf5bdcfa64642aa\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
-	android:name
-		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\5abb824480fdc420cbf5bdcfa64642aa\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:22-62
 uses-feature#android.hardware.camera
 ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\5abb824480fdc420cbf5bdcfa64642aa\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:25:5-27:36
 	android:required
@@ -324,3 +364,17 @@ ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\shreyas\.grad
 		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\5abb824480fdc420cbf5bdcfa64642aa\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:44:9-33
 	android:name
 		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\5abb824480fdc420cbf5bdcfa64642aa\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:43:9-45
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\f019312ebccc91329473a0f87b8d7269\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\f019312ebccc91329473a0f87b8d7269\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\f019312ebccc91329473a0f87b8d7269\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\f019312ebccc91329473a0f87b8d7269\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\722ee9809c32c8171102b52c64250b1b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\722ee9809c32c8171102b52c64250b1b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shreyas\.gradle\caches\transforms-2\files-2.1\722ee9809c32c8171102b52c64250b1b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

@@ -1,4 +1,4 @@
-#Fri Sep 11 21:38:33 IST 2020
+#Fri Sep 18 00:52:17 IST 2020
 base.0=D\:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
