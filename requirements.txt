@@ -1,0 +1,7 @@
+Flask 1.1.2
+requests
+flask-jsonify-emidln
+pyzbar
+decode_image 1.0.0.5
+googletrans
+pyqrcode
