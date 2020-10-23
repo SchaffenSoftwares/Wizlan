@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\kotlin practice\\Wizlan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "F:\\SUMANTH\\Private\\Wizlan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\shreyas\\.gradle\\caches\\transforms-2\\files-2.1\\035e79feac643ff23f2c9730c699e50a\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\k\\.gradle\\caches\\transforms-2\\files-2.1\\035e79feac643ff23f2c9730c699e50a\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
