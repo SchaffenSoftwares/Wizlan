@@ -16,7 +16,7 @@
             android:name="com.journeyapps.barcodescanner.CaptureActivity"
             android:screenOrientation="fullSensor"
             tools:replace="screenOrientation" />
-        <activity android:name=".Translator"></activity>
+        <activity android:name=".Translator" />
         <activity android:name=".pdfScanner" />
         <activity android:name=".qrGenerator" />
         <activity android:name=".qrScanner" />

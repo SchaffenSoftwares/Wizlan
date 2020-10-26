@@ -34,6 +34,7 @@ anim fragment_fade_exit
 anim fragment_fast_out_extra_slow_in
 anim fragment_open_enter
 anim fragment_open_exit
+anim logo_animation
 anim nav_default_enter_anim
 anim nav_default_exit_anim
 anim nav_default_pop_enter_anim
@@ -1124,6 +1125,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable barcode
 drawable bg
 drawable bg1
 drawable btn_checkbox_checked_mtrl
@@ -1166,6 +1168,7 @@ drawable ic_launcher_foreground
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable logo
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
@@ -1184,10 +1187,16 @@ drawable notify_panel_notification_icon_bg
 drawable pdfscan
 drawable qrscreen
 drawable resize
+drawable splash_gradient
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable translate
+font aclonica
+font allan
+font amaranth_bold
 font baloo
+font boogaloo
+font montserrat
 id ALT
 id CTRL
 id FUNCTION
@@ -1417,6 +1426,8 @@ id snap
 id snapMargins
 id spacer
 id splashFragment
+id splashrandomn
+id splashwizlan
 id split_action_bar
 id spread
 id spread_inside
@@ -1608,6 +1619,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 navigation my_nav
 raw zxing_beep
+string TODO
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
