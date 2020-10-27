@@ -7,7 +7,13 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.view.animation.Animation
+import android.view.animation.AnimationUtils
 import androidx.navigation.fragment.findNavController
+import com.example.wizlan.utilityclasses.Constants
+import kotlinx.android.synthetic.main.fragment_first_screen.*
+import kotlinx.android.synthetic.main.fragment_splash.view.*
+import kotlin.random.Random
 
 
 class SplashFragment : Fragment() {
@@ -25,7 +31,17 @@ class SplashFragment : Fragment() {
                 findNavController().navigate(R.id.action_splashFragment_to_viewPagerFragment)
             }
         }, 3000)
-        return inflater.inflate(R.layout.fragment_splash, container, false)
+        val view =inflater.inflate(R.layout.fragment_splash, container, false)
+        val text = "WIZLAN"
+        val random = Random.nextInt(Constants.tagLineSize)
+        view.splashrandomn.text = Constants.tagLines[random]
+        return view
+
+        //Animation
+
+
+
+
     }
     private fun onBoardingFinished(): Boolean{
         val sharedPref = requireActivity().getSharedPreferences("onBoarding", Context.MODE_PRIVATE)
