@@ -8,6 +8,11 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+    compileOptions
+            {
+                sourceCompatibility JavaVersion.VERSION_1_8
+                targetCompatibility JavaVersion.VERSION_1_8
+            }
 
     defaultConfig {
         applicationId "com.example.wizlan"
@@ -35,6 +40,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     implementation 'androidx.navigation:navigation-fragment-ktx:2.3.0'
+    implementation 'com.github.kenglxn.qrgen:android:2.6.0'
     implementation 'com.journeyapps:zxing-android-embedded:3.6.0'
     //implementation('com.journeyapps:zxing-android-embedded:4.1.0') { transitive = false }
     //implementation 'com.google.zxing:core:3.3.0'

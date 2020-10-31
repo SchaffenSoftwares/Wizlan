@@ -1,29 +1,19 @@
 package com.example.wizlan
 
-import android.R.attr
-import android.app.Activity
-import android.content.Context
-import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Bundle
-import android.util.AttributeSet
 import android.util.SparseArray
 import android.view.SurfaceHolder
-import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import androidx.core.util.isEmpty
 import androidx.core.util.isNotEmpty
 import com.google.android.gms.vision.CameraSource
 import com.google.android.gms.vision.Detector
 import com.google.android.gms.vision.barcode.Barcode
 import com.google.android.gms.vision.barcode.BarcodeDetector
-import com.google.zxing.integration.android.IntentIntegrator
 import kotlinx.android.synthetic.main.activity_qr_scanner.*
-import java.util.*
-import java.util.jar.Manifest
 
 
 class qrScanner : AppCompatActivity() {
@@ -42,6 +32,12 @@ class qrScanner : AppCompatActivity() {
             askForCameraPermission()
         } else {
             setupControls()
+        }
+
+        logoQrScreen.setOnClickListener {
+            var mainFragment: HomeFragment = HomeFragment()
+            supportFragmentManager.beginTransaction().add(R.id.container, mainFragment)
+                .commit()
         }
     }
 

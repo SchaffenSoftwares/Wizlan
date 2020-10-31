@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:background="@color/cardview_dark_background"
+    android:background="#D21F3C"
     android:layout_height="match_parent"
     tools:context=".onboarding.screens.FirstScreen">
 
@@ -24,9 +24,10 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="QR code reader and generator"
-        android:textColor="@android:color/holo_blue_dark"
-        android:textSize="24sp"
+        android:fontFamily="@font/baloo"
+        android:text="QR CODE SCANNER/GENERATOR"
+        android:textColor="#FDA50F"
+        android:textSize="25sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -37,27 +38,29 @@
     <TextView
         android:id="@+id/textView2"
         android:layout_width="287dp"
-        android:layout_height="59dp"
-        android:fontFamily="casual"
-        android:text="A user-friendly and robust QR code scanner or generator to make your work easier."
+        android:layout_height="69dp"
+        android:fontFamily="serif"
+        android:text="A user-friendly and robust or code scanner or generator to make your work easier."
         android:textAlignment="center"
         android:textColor="@android:color/white"
+        android:textSize="15sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:layout_constraintVertical_bias="0.334" />
+        app:layout_constraintVertical_bias="0.058" />
 
-    <TextView
+    <Button
         android:id="@+id/firstScreenNext"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="45dp"
         android:layout_marginBottom="45dp"
         android:fontFamily="@font/baloo"
+        android:background="#00000000"
         android:text="Next"
-        android:textColor="@android:color/holo_green_light"
+        android:textColor="#ffffff"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"

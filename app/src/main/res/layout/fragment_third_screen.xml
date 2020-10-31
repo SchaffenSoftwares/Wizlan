@@ -4,19 +4,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/cardview_dark_background"
+    android:background=" #1f618d "
     tools:context=".onboarding.screens.ThirdScreen">
 
 
-    <TextView
+    <Button
         android:id="@+id/thirdScreenFinish"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="45dp"
         android:layout_marginBottom="45dp"
         android:fontFamily="@font/baloo"
+        android:background="#00000000"
         android:text="Finish"
-        android:textColor="@android:color/holo_green_light"
+        android:textColor="#FFFFFF"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -27,9 +28,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Language Translator"
-        android:textColor="@android:color/holo_blue_dark"
-        android:textSize="24sp"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
         android:textStyle="bold"
+        android:fontFamily="@font/baloo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -50,16 +52,17 @@
         android:id="@+id/textView6"
         android:layout_width="356dp"
         android:layout_height="77dp"
-        android:fontFamily="casual"
+        android:fontFamily="serif"
         android:text=" Instant camera translation: Translate text in images instantly by just pointing your camera."
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textStyle="bold"
+        android:textSize="15sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3"
-        app:layout_constraintVertical_bias="0.345" />
+        app:layout_constraintVertical_bias="0.121" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
