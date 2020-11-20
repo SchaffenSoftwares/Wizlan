@@ -22,12 +22,13 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="322dp"
+        android:layout_height="42dp"
         android:fontFamily="@font/baloo"
         android:text="QR CODE SCANNER/GENERATOR"
+        android:textAlignment="center"
         android:textColor="#FDA50F"
-        android:textSize="25sp"
+        android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -38,7 +38,7 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:hardwareAccelerated="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/logo"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
@@ -51,11 +51,11 @@
             android:stateNotNeeded="true"
             android:theme="@style/zxing_CaptureTheme"
             android:windowSoftInputMode="stateAlwaysHidden" />
-        <activity android:name="com.example.wizlan.Translator" />
-        <activity android:name="com.example.wizlan.pdfScanner" />
-        <activity android:name="com.example.wizlan.qrGenerator" />
-        <activity android:name="com.example.wizlan.qrScanner" />
-        <activity android:name="com.example.wizlan.MainActivity" >
+        <activity android:name="com.example.wizlan.activities.Translator" />
+        <activity android:name="com.example.wizlan.activities.pdfScanner" />
+        <activity android:name="com.example.wizlan.activities.qrGenerator" />
+        <activity android:name="com.example.wizlan.activities.qrScanner" />
+        <activity android:name="com.example.wizlan.activities.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

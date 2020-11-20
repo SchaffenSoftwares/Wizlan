@@ -10,7 +10,7 @@
     <application
         android:allowBackup="true"
         android:hardwareAccelerated="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/logo"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
@@ -19,11 +19,11 @@
             android:name="com.journeyapps.barcodescanner.CaptureActivity"
             android:screenOrientation="fullSensor"
             tools:replace="screenOrientation" />
-        <activity android:name=".Translator" />
-        <activity android:name=".pdfScanner" />
-        <activity android:name=".qrGenerator" />
-        <activity android:name=".qrScanner" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".activities.Translator" />
+        <activity android:name=".activities.pdfScanner" />
+        <activity android:name=".activities.qrGenerator" />
+        <activity android:name=".activities.qrScanner" />
+        <activity android:name=".activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

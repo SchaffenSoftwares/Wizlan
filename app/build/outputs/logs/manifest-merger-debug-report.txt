@@ -276,7 +276,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sh
 	android:roundIcon
 		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:15:9-54
 	android:icon
-		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:13:9-38
 	android:allowBackup
 		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
@@ -300,26 +300,26 @@ MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\shreyas\.gra
 		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:21:13-46
 	android:name
 		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:19:13-74
-activity#com.example.wizlan.Translator
-ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:22:9-48
+activity#com.example.wizlan.activities.Translator
+ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:22:9-59
 	android:name
-		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:22:19-45
-activity#com.example.wizlan.pdfScanner
-ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:23:9-48
+		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:22:19-56
+activity#com.example.wizlan.activities.pdfScanner
+ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:23:9-59
 	android:name
-		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:23:19-45
-activity#com.example.wizlan.qrGenerator
-ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:24:9-49
+		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:23:19-56
+activity#com.example.wizlan.activities.qrGenerator
+ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:24:9-60
 	android:name
-		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:24:19-46
-activity#com.example.wizlan.qrScanner
-ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:25:9-47
+		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:24:19-57
+activity#com.example.wizlan.activities.qrScanner
+ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:25:9-58
 	android:name
-		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:25:19-44
-activity#com.example.wizlan.MainActivity
+		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:25:19-55
+activity#com.example.wizlan.activities.MainActivity
 ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:26:9-32:20
 	android:name
-		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:26:19-47
+		ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:26:19-58
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\kotlin practice\Wizlan\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
