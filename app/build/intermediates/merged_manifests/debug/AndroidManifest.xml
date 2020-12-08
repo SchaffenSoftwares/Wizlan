@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="17"
+        android:minSdkVersion="21"
         android:targetSdkVersion="30" />
 
     <uses-permission android:name="android.permission.CAMERA" />
@@ -42,8 +42,12 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.wizlan.activities.SplitpdfActivity" />
+        <activity android:name="com.example.wizlan.activities.TexttopdfconverterActivity" />
+        <activity android:name="com.example.wizlan.activities.TexttopdffileActivity" />
+        <activity android:name="com.example.wizlan.activities.TextreaderActivity" />
+        <activity android:name="com.example.wizlan.activities.PdfscanActivity" />
         <activity
             android:name="com.journeyapps.barcodescanner.CaptureActivity"
             android:clearTaskOnLaunch="true"
@@ -66,6 +70,14 @@
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name="com.karumi.dexter.DexterActivity"
+            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+
+        <uses-library
+            android:name="androidx.camera.extensions.impl"
+            android:required="false" />
 
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"

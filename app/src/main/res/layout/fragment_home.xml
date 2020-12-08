@@ -103,7 +103,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20dp"
-                    android:text="PDF SCANNER"
+                    android:text="DOCUMENT HUB"
                     android:textColor="#f0f5f9"
                     android:textSize="13sp" />
 

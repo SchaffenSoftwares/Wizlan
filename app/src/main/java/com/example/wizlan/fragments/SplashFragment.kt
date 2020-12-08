@@ -17,6 +17,8 @@ import kotlin.random.Random
 class SplashFragment : Fragment() {
 
 
+
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
@@ -28,14 +30,16 @@ class SplashFragment : Fragment() {
             }else{
                 findNavController().navigate(R.id.action_splashFragment_to_viewPagerFragment)
             }
-        }, 3000)
+        }, 5000)
         val view =inflater.inflate(R.layout.fragment_splash, container, false)
         val text = "WIZLAN"
         val random = Random.nextInt(Constants.tagLineSize)
         view.splashrandomn.text = Constants.tagLines[random]
         return view
 
+
         //Animation
+
 
 
 

@@ -16,10 +16,11 @@ android {
 
     defaultConfig {
         applicationId "com.example.wizlan"
-        minSdkVersion 17
+        minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
+        multiDexEnabled true
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -55,4 +56,45 @@ dependencies {
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
     implementation 'com.squareup.retrofit2:converter-gson:2.6.0'
     //implementation 'com.squareup.retrofit2:retrofit:4.5.0'
+    implementation 'com.airbnb.android:lottie:3.4.0'
+    implementation 'com.itextpdf:itextg:5.5.10'
+    implementation 'com.karumi:dexter:5.0.0'
+    implementation 'com.android.support:multidex:1.0.3'
+
+    def camerax_version = "1.0.0-beta10"
+    implementation "androidx.camera:camera-camera2:${camerax_version}"
+    // If you want to additionally use the CameraX Lifecycle library
+    implementation "androidx.camera:camera-lifecycle:${camerax_version}"
+    // If you want to additionally use the CameraX View class
+    implementation "androidx.camera:camera-view:1.0.0-alpha17"
+    // If you want to additionally use the CameraX Extensions library
+    implementation "androidx.camera:camera-extensions:1.0.0-alpha17"
+
+
+
+    api "com.github.kuamanet:android-native-opencv:0.1"
+    // ViewModel
+    api "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0"
+    // LiveData
+    api "androidx.lifecycle:lifecycle-livedata-ktx:2.2.0"
+    // Lifecycles only (without ViewModel or LiveData)
+    api "androidx.lifecycle:lifecycle-runtime-ktx:2.2.0"
+
+    api "androidx.activity:activity-ktx:1.1.0"
+
+    // CameraX core library using camera2 implementation
+    implementation "androidx.camera:camera-camera2:1.0.0-beta06"
+    // CameraX Lifecycle Library
+    implementation "androidx.camera:camera-lifecycle:1.0.0-beta06"
+    // CameraX View class
+    implementation "androidx.camera:camera-view:1.0.0-alpha13"
+
+    // zoomable image view
+    implementation "com.github.chrisbanes:PhotoView:2.3.0"
+    implementation 'com.google.android.material:material:1.1.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+
+    
+
+
 }
