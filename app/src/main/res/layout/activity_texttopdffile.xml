@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Black"
+    tools:context=".activities.TexttopdffileActivity">
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:fontFamily="sans-serif-black"
+        android:text="TEXT TO PDF FILE"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:typeface="sans"
+        app:layout_constraintBottom_toTopOf="@+id/texttopdffileInput"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.204" />
+
+    <EditText
+        android:id="@+id/texttopdffileInput"
+        android:layout_width="354dp"
+        android:layout_height="349dp"
+        android:layout_marginTop="155dp"
+        android:background="@color/cardview_light_background"
+        android:ems="10"
+        android:hint="Entr text here....."
+        android:inputType="text"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@+id/bt_txtpdfconv"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.35000002" />
+
+    <Button
+        android:id="@+id/bt_txtpdfconv"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:background="@drawable/dh_gradientcolour"
+        android:text="Convert to PDF"
+        android:textColor="#F83806"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.82" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

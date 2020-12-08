@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/splashFragment"
-        android:name="com.example.wizlan.SplashFragment"
+        android:name="com.example.wizlan.fragments.SplashFragment"
         android:label="fragment_splash"
         tools:layout="@layout/fragment_splash" >
         <action
@@ -34,7 +34,7 @@
     </fragment>
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.wizlan.HomeFragment"
+        android:name="com.example.wizlan.fragments.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
 </navigation>

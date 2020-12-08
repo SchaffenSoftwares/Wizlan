@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wizlan.iml" filepath="$PROJECT_DIR$/.idea/modules/Wizlan.iml" group="Wizlan" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Wizlan/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wizlan.iml" filepath="$PROJECT_DIR$/.idea/modules/Wizlan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wizlan.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wizlan.app.iml" />
     </modules>
   </component>
 </project>
